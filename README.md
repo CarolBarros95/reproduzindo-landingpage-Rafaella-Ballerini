@@ -24,3 +24,4 @@ Praticar estruturação de páginas e estilização com CSS.
 \## 📌 Observações
 
 Projeto criado exclusivamente para fins de estudo.
+Projeto original da Rafaella (https://www.youtube.com/watch?v=llF6vD-RljE).
