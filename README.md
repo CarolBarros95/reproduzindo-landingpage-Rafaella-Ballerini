@@ -2,7 +2,7 @@
 
 
 
-!\[Preview da landing page](images/img.png)
+!\[Preview da landing page](https://github.com/CarolBarros95/reproduzindo-landingpage-Rafaella-Ballerini/raw/main/images/img.png)
 
 
 
