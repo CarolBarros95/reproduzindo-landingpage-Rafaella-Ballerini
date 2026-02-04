@@ -1,5 +1,8 @@
 \# Reproduzindo Landing Page - Rafaella Ballerini
 
+🔗 Acesse o projeto online:  
+https://carolbarros95.github.io/reproduzindo-landingpage-Rafaella-Ballerini/
+
 <img width="1868" height="885" alt="img" src="https://github.com/user-attachments/assets/ce3d30db-915b-4d57-b5f4-aade2ef8cbd7" />
 
 
