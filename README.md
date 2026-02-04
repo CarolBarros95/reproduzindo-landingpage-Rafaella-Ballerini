@@ -2,6 +2,10 @@
 
 
 
+!\[Preview da landing page](images/img.png)
+
+
+
 Projeto desenvolvido para praticar HTML e CSS, reproduzindo uma landing page baseada em um layout apresentado pela Rafaella Ballerini.
 
 
